@@ -12,10 +12,14 @@ The installation process is quite simple:
     - If you have already created the world, on world selector screen go to `[Edit] > [Open world folder] > /datapacks`.
 1. Copy `arachnophobia.zip` on `datapacks` folder.
 
-## How to use it?
+## Usage
 
-Currently, the only way to activate Arachnophobia is by adding to a player the "arachnophobic" tag, this can be done through prompt with `/function arachnophobia:config` or manually with `/tag (player) add arachnophobic`.
+Currently, the only way to activate Arachnophobia is by adding to a player the "arachnophobic" tag, this can be done through prompt with `/function arachnophobia:config` or manually with `/tag (player) add arachnophobic`. As both options require Command Execution, the Datapack can't be applied to worlds that don't allow it.
 
 ## Other features
 
-As players may not encounter spiders, it would be harder to get string, so I added a recipe that turns wool into string is available.
+As players may not encounter spiders, it would be harder to get string, so I added a recipe that turns wool into string.
+
+## Collaborate
+
+Feel free to suggest changes or report any issues related to the Datapack.
