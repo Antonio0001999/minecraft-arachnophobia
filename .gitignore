@@ -1,0 +1,5 @@
+# Compressed folders
+*.zip
+
+# Ignore wildcard
+_*
